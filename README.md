@@ -2,7 +2,7 @@
 
 ** FCC Brief **
 
-** Yelp API **
+** Yelp API **  
 https://www.yelp.com/developers
 
 ## TODOs

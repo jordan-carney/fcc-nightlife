@@ -1,6 +1,7 @@
 # Free Code Camp - Nightlife Coordination App
 
-**FCC Brief**
+**FCC Brief**  
+https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app
 
 **Yelp API**  
 https://www.yelp.com/developers
